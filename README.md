@@ -1,24 +1,21 @@
-# Basic HTML Page with Structured Layout
+# Double Numbers Using JavaScript `map()` Function
 
-## Description
-This task is a structured HTML page created as part of a course assignment. The task focused on organizing HTML elements into logical sections using `<div>` tags.
+## Description  
+This project demonstrates how to use the JavaScript `map()` function with an arrow function to create a new array with each number doubled. It displays both the original array and the doubled array on the webpage using simple styling.
 
-## Features
-- Title and paragraph to introduce the content.
-- Embedded image and a locally stored video.
-- Hyperlink and a styled button.
-- An unordered list and a formatted table.
-- A complete HTML form with input fields for:
-  - Name
-  - Email
-  - Password
-  - Submit button
+## Features  
+- Defines an array of numbers: [1, 2, 3, 4, 5]  
+- Uses the `map()` method with an arrow function to double each value  
+- Displays the original and the doubled arrays dynamically on the webpage  
+- Styled with basic CSS for visual clarity
 
-## Structure
-All elements are grouped logically inside `<div>` containers, with three requirements inside each section.
+## Technologies Used  
+- HTML5  
+- CSS3  
+- JavaScript
 
-## Technologies Used
-- HTML5
-
-## Purpose
-This task demonstrates the ability to build a semantically structured webpage using core HTML elements, forms, and multimedia integration.
+## Purpose  
+The goal of this task is to practice:
+- Using the `map()` method and arrow functions in JavaScript  
+- Dynamically updating webpage content using DOM manipulation  
+- Styling the content using CSS
